@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matiascalvi&label=Profile%20views&color=0e75b6&style=flat" alt="matiascalvi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matiascalvi" alt="matiascalvi" /></a> </p>
-
 - 🔭 I’m currently working on **Three.js,websites**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MatiasCalvi?tab=repositories](https://github.com/MatiasCalvi?tab=repositories)
