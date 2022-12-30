@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matiascalvi&label=Profile%20views&color=0e75b6&style=flat" alt="matiascalvi" /> </p>
 
-- 🔭 I’m currently working on **Three.js,websites**
+- 🔭 I’m currently working on **Websites**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MatiasCalvi?tab=repositories](https://github.com/MatiasCalvi?tab=repositories)
 
