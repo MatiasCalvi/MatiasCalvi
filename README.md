@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://matiascalvi-dev.vercel.app/](https://matiascalvi-dev.vercel.app/)
 
-- 🌱 I’m currently learning **React,React Native,Typescript**
+- 🌱 I’m currently learning **Mokoto**
 
 - 📫 How to reach me **matiascalvi@gmail.com**
 
